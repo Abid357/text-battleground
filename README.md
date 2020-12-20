@@ -1,1 +1,3 @@
-# text-battleground
+# Text BattleGround
+
+## A Java-based typing game!
